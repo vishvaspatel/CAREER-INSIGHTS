@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    margin: 1rem;
+    text-align: center;
+  }
+  
+  #nav {
+    background-color: #2c4ab4 !important;
+    color: white !important;
+    display: flex;
+    font-size: 15px;
+    font-weight: 700;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 1rem !important;
+    padding: 0 1rem !important;
+    height: 75px;
+    position: fixed;
+  }
+  
+  .site-title {
+    font-size: 2rem;
+    color: #ffffff !important;
+    font-weight: 700;
+    margin-right: 200px;
+    
+  }
+  
+  #nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem !important;
+  }
+  
+  #nav a {
+    color: white;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0.22rem !important;
+  }
+  
+  #nav li.active {
+    background-color: #342487;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+  }
+  
+  #nav li:hover {
+    background-color: #342487;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+  }
+
+  .mainlogo1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* width: 60px !important;
+    height: 80px !important;
+    margin-right: 15px !important; */
+  }
+
+  .css-o69gx8-MuiCardMedia-root {
+    width: 80px !important;
+  }
+
+  .css-rhsghg {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: none !important;
+    object-fit: cover;
+}

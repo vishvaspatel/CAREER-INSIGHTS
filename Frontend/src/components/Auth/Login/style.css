@@ -1,0 +1,88 @@
+#fjd2SU{
+    width: 300px;
+    height: 55px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: -24px;
+    margin-left: 26.7rem;
+    margin-top: -5rem;
+    border-radius: 3px;
+    }
+
+    #fjd4SU{
+        width: 300px;
+        height: 55px;
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 48.2rem;
+    margin-top: -5rem;
+    border-radius: 3px;
+    }
+
+    #fjd1text4SU{
+        position: absolute;
+        margin-top: -6.5rem;
+        margin-left: 48.2rem;
+    }
+
+    #skill1UG{
+      box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+      width: 220px;
+      height: 30px;
+      padding: 2px;
+      border-radius: 10px;
+      text-align: center;
+      margin-left: 20rem;
+    }
+    #skill1UG1{
+      box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+      width: 220px;
+      height: 30px;
+      padding: 2px;
+      border-radius: 10px;
+      text-align: center;
+      margin-left: 50rem;
+    }
+
+    #skillUGtxt{
+      margin-left: 20rem;
+      margin-top: 1rem !important;
+      margin-bottom: 1rem;
+      color: blue;
+      font-size: 15px ;
+      font-weight: 700;
+    }
+    #skillUGtxt2{
+      margin-left: 50rem;
+      margin-top: 1rem !important;
+      margin-bottom: 1rem;
+      color: blue;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .vl {
+      border-left: 6px solid rgb(0, 0, 0);
+      height: 520px;
+      position: absolute;
+      margin-left: 46.8rem;
+    }
+
+
+/* 
+    html {
+        font-family: system-ui, sans-serif;
+        font-size: 1.25rem;
+      }
+      
+      body {
+        margin: 0;
+      }
+      
+      svg {
+        display: inline-block;
+        vertical-align: middle;
+        height: 800px !important;
+        width: 700px !important;
+      } */
+      

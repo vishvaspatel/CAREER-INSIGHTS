@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tech_Matrix_Sih-dr728/static/css/main.44534ffd.css",
+    "main.js": "/Tech_Matrix_Sih-dr728/static/js/main.270eb07e.js",
+    "static/js/787.4612ac67.chunk.js": "/Tech_Matrix_Sih-dr728/static/js/787.4612ac67.chunk.js",
+    "static/media/logo.svg": "/Tech_Matrix_Sih-dr728/static/media/logo.8513cec1aa52e19f4e641c36ab94cc1c.svg",
+    "index.html": "/Tech_Matrix_Sih-dr728/index.html",
+    "main.44534ffd.css.map": "/Tech_Matrix_Sih-dr728/static/css/main.44534ffd.css.map",
+    "main.270eb07e.js.map": "/Tech_Matrix_Sih-dr728/static/js/main.270eb07e.js.map",
+    "787.4612ac67.chunk.js.map": "/Tech_Matrix_Sih-dr728/static/js/787.4612ac67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44534ffd.css",
+    "static/js/main.270eb07e.js"
+  ]
+}

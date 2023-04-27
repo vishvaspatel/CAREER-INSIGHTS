@@ -1,0 +1,146 @@
+#Shd2{
+    width: 300px;
+    height: 55px;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 40.2rem;
+    margin-top: 12rem !important;
+    }
+/* #Shd3{
+        width: 300px;
+        height: 55px;
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 50rem;
+    margin-top: 11rem !important;
+    } */
+
+#Shd1lable{
+    margin-left: 40.2rem;
+    margin-top: 10.3rem !important;
+    position: absolute;
+}
+/* #Shd2lable{
+    margin-left: 49.7rem;
+    margin-top: 9.3rem !important;
+    position: absolute;
+} */
+
+#Sht1{
+    margin-top: 90px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40rem;
+    position: absolute;
+}
+
+#SHhr1{
+    margin-top: 12rem !important;
+}
+
+
+.Chartsh{
+    margin-left: 40px;
+    padding-left: 40px;
+}
+
+.chartgh3sh1{
+    border-radius: 5px;
+    margin-top: 3rem;
+    margin-left: 50rem !important;
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 10px;
+    /* box-shadow: remrgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+}
+
+.chartgh2sh2{
+    border-radius: 5px;
+    margin-top: 3rem;
+    margin-left: 5rem !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 10px;
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+    position: absolute;
+    display: flex;
+}
+
+.chart1allsh3{
+    border-radius: 5px;
+    position: relative;
+    margin-top: 32rem;
+    margin-left: 20rem !important;
+    margin-right: 18rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+.chart1allsh4{
+    border-radius: 5px;
+    position: relative;
+    margin-top: 4rem;
+    margin-left: 20rem !important;
+    margin-right: 18rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+.chart1allsh5{
+    border-radius: 5px;
+    position: relative;
+    margin-top: 4rem;
+    margin-left: 20rem !important;
+    margin-right: 18rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+
+#fjd1T{
+    width: 300px;
+    height: 55px;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 27rem;
+    margin-top: -3rem;
+    border-radius: 3px;
+    }
+    #fjd3T{
+        width: 300px;
+        height: 55px;
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 50rem;
+    margin-top: -3rem;
+    border-radius: 3px;
+    }
+
+    #fjd1text1T{
+        position: absolute;
+        margin-top: -4.5rem;
+        margin-left: 27rem !important;
+        margin-left: 5rem;
+    }
+    #fjd1text3T{
+        position: absolute;
+        margin-top: -4.5rem;
+        margin-left: 50rem !important;
+    }
+
+    #hrTsshs{
+        margin-top: 30rem !important;
+        position: absolute;
+        margin-bottom: 40px !important;
+    }
+
+    #headingT{
+        position: absolute;
+        margin-top: -140px;
+        margin-left: 400px !important;
+        align-items: center !important;
+margin-left: 50px;
+    }
+    #headingT2{
+        position: absolute;
+        margin-top: -140px;
+        margin-left: 400px !important;
+        align-items: center !important;
+margin-left: 50px;
+    }
+
+    #hedingTT{
+        position: absolute;
+        margin-top: 30rem;
+    }

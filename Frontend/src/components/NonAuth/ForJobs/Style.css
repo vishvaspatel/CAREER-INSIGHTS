@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+
+.fjcard{
+    background-color: rgb(215, 200, 200);
+    width: 89rem;
+    height: 30rem;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    border: black solid 1px;
+    border-radius: 10px;
+}
+
+#fjboxtitle{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.fjdrop1{
+    margin-left: 100px;
+    margin-right: 100px;
+    float: left;
+}
+.fjdrop2{
+    margin-left: 300px;
+    margin-right: 100px;
+    float: right;
+    position: absolute;
+}
+
+
+#fjd1{
+width: 300px;
+height: 55px;
+border: 1px solid black;
+position: absolute;
+margin-left: -32rem;
+}
+#fjd2{
+width: 300px;
+height: 55px;
+border: 1px solid black;
+position: absolute;
+margin-top: -24px;
+margin-left: -10rem;
+
+}
+#fjd3{
+    width: 300px;
+    height: 55px;
+position: absolute;
+border: 1px solid black;
+margin-left: 12rem;
+margin-top: -48px;
+}
+
+.k-input-value-text {
+    font-size: 18px !important;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#fjd2fjj{
+    margin-top: 100px;
+    width: 300px;
+height: 55px;
+border: 1px solid black;
+position: absolute;
+margin-top: -24px;
+margin-left: 26.7rem;
+margin-top: -5rem;
+border-radius: 3px;
+}
+
+#fjd3jjj{
+    width: 300px;
+    height: 55px;
+position: absolute;
+border: 1px solid black;
+margin-left: 48rem;
+margin-top: -5rem;
+border-radius: 3px;
+}
+
+.chartgh3fjj{
+    margin-top: 10px;
+    margin-left: 20rem !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 10px;
+}
+
+.h1fjjj{
+    margin-top: 10px;
+    margin-left: 60px;
+}

@@ -1,0 +1,30 @@
+{
+  "result": [
+    {
+      "_id": "62d2b22375b60164818f99bb",
+      "ENGINEERING": {
+        "KSV": {
+          "college_name": "KSV",
+          "state": "gujarat",
+          "district" : "Maheshana",
+          "city": "gandhinagar",
+          "address": "gandhinagar",
+          "grade": 12,
+          "type": "goverment",
+          "establish": 1984,
+          "2014-15": {
+            "branch": {
+              "ce": {
+                "cut": 100,
+                "fees": 1000,
+                "intake": 60,
+                "enrollment": 30,
+                "palacement": 15
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
