@@ -107,10 +107,10 @@ python app.py
 
 ### Admission & Placement Trends Visualization   
 ![Scrreen shot of project 1 (1)](https://github.com/user-attachments/assets/59c0bcbf-9536-47bc-be82-f69e286448a0)
-<img src="https://github.com/user-attachments/assets/a8a94691-81a1-4e31-98c2-4afb5b9b938a" alt="Logo" width="1000">
+<img src="https://github.com/user-attachments/assets/a8a94691-81a1-4e31-98c2-4afb5b9b938a" alt="Logo" width="1100">
 
 ### Industry Trend Prediction 
-![Picture5](https://github.com/user-attachments/assets/9a803dea-06ca-4a77-8137-a67bc1a8f825)
+<img src="https://github.com/user-attachments/assets/9a803dea-06ca-4a77-8137-a67bc1a8f825" alt="Logo" width="1100">
 
 ### Trending Skills
-![Picture4](https://github.com/user-attachments/assets/fd5b0bf0-4da0-404d-88ad-68d17c4c053f)
+<img src="https://github.com/user-attachments/assets/fd5b0bf0-4da0-404d-88ad-68d17c4c053f" alt="Logo" width="1100">
