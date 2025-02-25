@@ -1,150 +1,130 @@
-# CAREER-INSIGHTS
-<img src="https://github.com/user-attachments/assets/68244cdd-d6f8-4625-b720-71bc1e4a886a" alt="Logo" width="2000"> 
+# **CAREER-INSIGHTS**
 
 ## 💥 Introduction
 
-The proposed portal aims to provide a comprehensive and integrated platform for farmers, offering a range of features and services to enhance their agricultural practices. It addresses the challenges faced by farmers who need to navigate multiple platforms for information and services related to schemes, land details, APMC markets, and smart farming techniques. By providing a unique farmer ID and centralizing information, the portal streamlines access to crucial data such as scheme notifications, land details, APMC history, and facilitates processes like applying for loans and insurance.
+The **CAREER-INSIGHTS** project aims to bridge the gap between the education system and the job market by predicting future career trends, admissions, and job opportunities in the fields of engineering, technology, pharmacy, and management. The platform utilizes machine learning models to analyze demographic data and provide insights into career prospects, admissions, and placement trends.
 
-Moreover, the portal incorporates smart farming capabilities, utilizing machine learning, artificial intelligence, and the internet of things to assist farmers with crop recommendations, disease detection, yield prediction, and weather forecasting. With the potential to make accurate future predictions based on collected farmer data, the portal holds promise in empowering farmers with valuable insights and resources for improved decision-making and agricultural outcomes.
-
-It is built using React for the frontend, Express, Sockets Server, and Twilio for SMS service and communication, and MongoDB for the database and machine learning algorithms for disease detection, crop prediction, and crop recommendation.
+The project highlights a significant disconnect between the courses offered at the undergraduate and postgraduate levels and the evolving needs of the job market. This system employs **Multiple Linear Regression, KNN, Random Forest, and XGBoost** to form an integrated framework for predicting future job sectors, admission trends, and placements. Additionally, the project involves the creation of custom datasets for **state-wise admission & placement in India, district-level data for Gujarat, startup trends, and institutional analysis**, aggregated from multiple sources.
 
 ## 💡 Why did we build this?
 
-The portal was built to address the challenges faced by farmers in accessing crucial agricultural information and services. It aims to streamline decision-making by providing a centralized platform with a unique farmer ID for accessing schemes, land details, APMC history, and smart farming capabilities. The goal is to empower farmers with valuable insights, improve their decision-making, and enhance overall agricultural outcomes.
+In India, unemployment remains a major concern, and students often lack awareness of future career opportunities while selecting their graduation courses. The changing industry demands require an adaptable system that keeps pace with evolving job trends. **CAREER-INSIGHTS** helps students make informed career choices by analyzing:
+- Job trends in various industries
+- Future predictions of course demand
+- Placement trends in different domains
+- Industry demands vs. academic curriculum
+- **Program trends after SSC**
+- **Trending skills analysis for curriculum upgradation and learning**
+
+By integrating AI-driven analysis with real-world data, this project seeks to align education with employment opportunities, ensuring students acquire relevant skills for the future job market.
+
+## 🚀 Technologies Used  
+
+### 🧠 Machine Learning & AI  
+| Technology | Description |
+|------------|-------------|
+| ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B3C?style=for-the-badge&logo=xgboost&logoColor=white) | Extreme Gradient Boosting for optimized ML models |
+| ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge) | Ensemble learning for accurate predictions |
+| ![KNN](https://img.shields.io/badge/KNN-FF4500?style=for-the-badge) | K-Nearest Neighbors for classification |
+| ![Multiple Linear Regression](https://img.shields.io/badge/MLR-1E90FF?style=for-the-badge) | Predicting numerical trends |
+
+---
+
+### 🌍 Web Technologies  
+| Technology | Description |
+|------------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | Backend JavaScript runtime |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | Frontend UI framework |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL database for scalable storage |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Lightweight web framework for Python |
 
 ## 🛠️ Local development
 
-That's pretty easy. To ensure that you are able to install everything properly, we would recommend you to have <b>Git</b>, <b>NPM</b> and <b>Node.js</b> installed.
+To get started, ensure you have **Git, NPM, Node.js, and Python** installed.
 
-We will first start with setting up the Local Project Environment:
-
+1️⃣ Clone the repository and install dependencies:
 ```sh
-git clone https://github.com/Neelpatel11/Growfarm-Digital-farmer-portal.git
-cd Growfarm-Digital-farmer-portal
-npm run install
+git clone https://github.com/your-repo/career-insights.git
+cd career-insights
+npm install
 ```
-Now we will add the environment variables in the client/ and server/
 
-**Client**
+2️⃣ Start the Client:
 ```sh
 cd client
 npm install
 npm start
 ```
-For server setup, you need to add your MongoDB database URL to /config/mongoose.js.
 
-**Server**
+3️⃣ Start the Server:
 ```sh
 cd server
 npm install
 npm start
 ```
 
-## 🛠️ Features of growfarm
+4️⃣ Start the Flask Server:
+```sh
+cd flask-server
+pip install -r requirements.txt
+python app.py
+```
 
-Digital profile of farmers: Every farmer can register their self on growfarm after that they get a unique farmer id. Farmer id help farmers to get all information of them like farm information, eligible schemes, scheme application history, billing history, loan history, insurance history.
+## 📊 Key Features of CAREER-INSIGHTS  
 
-• **Smart farming (Crop recommendation system):** Farm can get suggestion for sowing the crop using parameters of soil like nitrogen, phosphers, potassium and whether details.
+### 🔍 Career Prediction System  
+- **Predicts trending job sectors** based on demographic and industry trends.
+- Provides insights into the **demand for specific courses** in engineering, management, and pharmacy.
 
-• **Whether broadcast and alert:** broadcasting and alerting bad weather can provide farmers with important information to help them make informed decisions about their agricultural practices and protect their livelihoods.
+### 🎓 Admission & Placement Trends  
+- Analyzes **historical admission data** to predict future enrollments.
+- Tracks **placement records** for different institutions and courses.
 
-• **Alert and update of new schemes and subsidies:** providing alerts and updates on new schemes and subsidies for farmers can help them stay informed and take advantage of the opportunities available to them, leading to improved agricultural productivity, better financial outcomes, and greater economic stability for farmers and their communities.
+### 📈 Industry Demand vs. Academic Curriculum  
+- Identifies gaps between **industry needs** and **current course content**.
+- Helps universities update curriculum **based on job market trends**.
 
-• **Schemes:** The system will provide a user-friendly interface where farmers can select the scheme they wish to apply for and fill out the necessary information. The platform will also provide real-time updates on the status of their application and any other relevant information.
+### 🌍 Geographic Career Insights  
+- **State-wise and district-wise** analysis of admissions and placements.
+- Startup ecosystem analysis across India.
 
-• **APMC billing history:** The digital billing history will allow farmers to easily track their sales and payment history, eliminating the need for manual record-keeping. This feature will also provide greater transparency and accountability in the agricultural supply chain, making it easier to identify any discrepancies or issues that may arise.
+### 📚 Program Trend After SSC  
+- **Analyzes student preferences** after SSC to determine popular programs.
+- Helps in guiding students toward **in-demand courses**.
 
-• **Farm information:** After verifying famer’s adhar details, they can get their farms information from ANY ROR in their profile page. From that farmer need not to visit any other portal. They get all information at one portal.
+### 🚀 Trending Skills Analysis  
+- **Identifies trending skills** needed in various industries.
+- Recommends curriculum upgradation for **better employability**.
 
-## 🧾 Class Diagram
+## 🏛️ System Diagrams  
 
-![Class diagram](https://user-images.githubusercontent.com/83646676/227933827-aa99f4fa-dd6e-4195-9757-63b6fdb0257c.png)
+### 📌 Class Diagram  
+![Class diagram](https://user-images.githubusercontent.com/example/class-diagram.png)
 
-## 🧾 ER diagram of farmer portal:
+### 📌 ER Diagram  
+![ER diagram](https://user-images.githubusercontent.com/example/er-diagram.png)
 
-![Farmer portal ER Diagram](https://user-images.githubusercontent.com/83646676/227935603-30440d00-b4b6-417d-8726-2195d0c5ea90.png)
+## 💻 UI/UX Interface Design  
 
-## 🧾 ER diagram of government portal:
+### Student Registration  
+![Registration](https://user-images.githubusercontent.com/example/registration.png)
 
-![Government portal Er Diagram](https://user-images.githubusercontent.com/83646676/227935683-71373929-2e04-4ba3-b89a-002742eff438.png)
+### Career Prediction Dashboard  
+![Dashboard](https://user-images.githubusercontent.com/example/dashboard.png)
 
-## 💻 Interface design of farmer portal:
+### Admission & Placement Trends Visualization  
+![Trends](https://user-images.githubusercontent.com/example/trends.png)
 
-### Farmer’s registration form
+## 🎬 Video Demo  
 
-![Registration](https://user-images.githubusercontent.com/83646676/227987002-147bcf12-5d1a-431a-bad8-9f1df7049864.png)
+https://user-images.githubusercontent.com/example/video1.mp4
 
-###  Farmer’s profile page
+https://user-images.githubusercontent.com/example/video2.mp4
 
-![FPP](https://user-images.githubusercontent.com/83646676/227987187-29cc2ca0-8526-45dd-bb5e-085bd5932287.png)
+---
 
-### Hourly Weather forecast
+### 🔗 Contribute  
+We welcome contributions! Feel free to raise issues, suggest enhancements, and submit pull requests.
 
-![HWF](https://user-images.githubusercontent.com/83646676/227987425-616763f5-ade8-47fe-8a37-9eea8f0ea92d.png)
-
-### APMC billing history at farmer side
-
-![APMC](https://user-images.githubusercontent.com/83646676/227987902-e30ed926-316c-4a10-90c5-65f7f5bbd97c.png)
-
-### Dashboard to analysis category wise registered farmers 
-
-![dacwrf](https://user-images.githubusercontent.com/83646676/227988066-48f01abe-9ddc-4ad9-8c24-87fbfd22fc5d.png)
-
-### Find farmer functionality 
-
-![FFf](https://user-images.githubusercontent.com/83646676/227988262-3f58415e-3628-4559-8146-cea0f4eeee58.png)
-
-### Admin side scheme dashboard
-
-![Assd](https://user-images.githubusercontent.com/83646676/227988511-97d3a365-4898-4f94-8bba-555c247a8a40.png)
-
-### Analysis dashboard for particular scheme 
-
-![adfps](https://user-images.githubusercontent.com/83646676/227989156-eaf1e61a-bb40-4dbf-9590-ac39c10ce2b7.png)
-
-### District wise soil analysis 
-
-![DWSA](https://user-images.githubusercontent.com/83646676/227989307-62233f61-dea6-4766-baa7-902c2d74a4c2.png)
-
-### Crop wise area, production and yield analysis 
-
-![CWAPAYA](https://user-images.githubusercontent.com/83646676/227989974-7d4abb1a-8cb1-4c44-afdf-573b84691caa.png)
-
-### Trader side digital bill generator 
-
-![TSDBG](https://user-images.githubusercontent.com/83646676/227990534-78b3f3ce-5795-4f1b-a3c9-02c9de0826b7.png)
-
-
-### Digital billing history
-
-![Dhh](https://user-images.githubusercontent.com/83646676/227990730-0ec07b40-c74e-455f-9637-d7ac4406fbf8.png)
-
-
-## 🎬Video demo of Growfarm Ui
-
-
-https://user-images.githubusercontent.com/83646676/227994431-19456186-d09d-4b97-bc8a-d9c06d3121a7.mp4
-
-
-
-https://user-images.githubusercontent.com/83646676/227994504-b990925b-2561-4db5-8b1b-ee7792cedc0f.mp4
-
-
-
-https://user-images.githubusercontent.com/83646676/227994510-20b4a2d4-59c5-435a-a285-571e75fbd67f.mp4
-
-
-
-https://user-images.githubusercontent.com/83646676/227994525-c63d7e5e-6aa3-41aa-855b-f0cfb350f7ea.mp4
-
-
-
-https://user-images.githubusercontent.com/83646676/227994536-026f6a4b-ffc6-406e-94b7-ab215755f04f.mp4
-
-
-
-https://user-images.githubusercontent.com/83646676/227994553-cc59698a-cd75-4ec5-bd1f-5e0456d3a210.mp4
-
-
-
+📧 Contact: **your-email@example.com**  
+GitHub Repository: [CAREER-INSIGHTS](https://github.com/your-repo/career-insights)
