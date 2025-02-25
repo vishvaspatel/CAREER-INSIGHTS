@@ -97,11 +97,8 @@ python app.py
 
 ## 🏛️ System Diagrams  
 
-### 📌 Class Diagram  
-![Class diagram](https://user-images.githubusercontent.com/example/class-diagram.png)
-
-### 📌 ER Diagram  
-![ER diagram](https://user-images.githubusercontent.com/example/er-diagram.png)
+### 📌 Flow Diagram  
+![web flow in details](https://github.com/user-attachments/assets/8805ce7c-388f-40c8-9a17-26dd93ea625e)
 
 ## 💻 UI/UX Interface Design  
 
