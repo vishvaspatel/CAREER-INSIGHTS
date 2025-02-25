@@ -86,7 +86,6 @@ python app.py
 
 ### 🌍 Geographic Career Insights  
 - **State-wise and district-wise** analysis of admissions and placements.
-- Startup ecosystem analysis across India.
 
 ### 📚 Program Trend After SSC  
 - **Analyzes student preferences** after SSC to determine popular programs.
@@ -106,25 +105,12 @@ python app.py
 
 ## 💻 UI/UX Interface Design  
 
-### Student Registration  
-![Registration](https://user-images.githubusercontent.com/example/registration.png)
+### Admission & Placement Trends Visualization   
+![Scrreen shot of project 1 (1)](https://github.com/user-attachments/assets/59c0bcbf-9536-47bc-be82-f69e286448a0)
+![Picture3](https://github.com/user-attachments/assets/a8a94691-81a1-4e31-98c2-4afb5b9b938a)
 
-### Career Prediction Dashboard  
-![Dashboard](https://user-images.githubusercontent.com/example/dashboard.png)
+### Industry Trend Prediction 
+![Picture5](https://github.com/user-attachments/assets/9a803dea-06ca-4a77-8137-a67bc1a8f825)
 
-### Admission & Placement Trends Visualization  
-![Trends](https://user-images.githubusercontent.com/example/trends.png)
-
-## 🎬 Video Demo  
-
-https://user-images.githubusercontent.com/example/video1.mp4
-
-https://user-images.githubusercontent.com/example/video2.mp4
-
----
-
-### 🔗 Contribute  
-We welcome contributions! Feel free to raise issues, suggest enhancements, and submit pull requests.
-
-📧 Contact: **your-email@example.com**  
-GitHub Repository: [CAREER-INSIGHTS](https://github.com/your-repo/career-insights)
+### Trending Skills
+![Picture4](https://github.com/user-attachments/assets/fd5b0bf0-4da0-404d-88ad-68d17c4c053f)
